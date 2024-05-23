@@ -25,5 +25,16 @@ such as: likes, views, replies, a, i, o, u ... would return you all the tweets w
 You might have to delete the db once in a while if it gets too big.
 F12 ->Application->IndexedDB delete (twittermDB)
 
+### Stacks
+- pure Javascript, CSS
+
+### Functions
+- [ ] Save Tweet
+- [ ] Delete Tweet
+- [ ] Search Tweets
+
+*Search can be done with any text show on the tweet including name, id, content, date, views, likes ..
+
+
 `Simply Install and open twitter / X to start tracking visits`
 
