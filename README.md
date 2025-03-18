@@ -38,5 +38,3 @@ F12 ->Application->IndexedDB delete (twittermDB)
 
 `Simply Install and open twitter / X to start tracking visits`
 
-
-mypage: https://ko-fi.com/cre3ent
